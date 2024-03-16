@@ -1,0 +1,14 @@
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/bin/Debug/net8.0/Exercices_POO_Mars24
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/bin/Debug/net8.0/Exercices_POO_Mars24.deps.json
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/bin/Debug/net8.0/Exercices_POO_Mars24.runtimeconfig.json
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/bin/Debug/net8.0/Exercices_POO_Mars24.dll
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/bin/Debug/net8.0/Exercices_POO_Mars24.pdb
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.AssemblyInfoInputs.cache
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.AssemblyInfo.cs
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.csproj.CoreCompileInputs.cache
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.dll
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/refint/Exercices_POO_Mars24.dll
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.pdb
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/Exercices_POO_Mars24.genruntimeconfig.cache
+/Users/2ahumbertmuller/Projects/Exercices_POO_Mars24/Exercices_POO_Mars24/obj/Debug/net8.0/ref/Exercices_POO_Mars24.dll
